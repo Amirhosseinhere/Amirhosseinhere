@@ -1,4 +1,4 @@
-<h1 align="center">Hi there i'm AmirHosein👋</h1>
+<h1 align="center">Hi 👋, i'm AmirHosein</h1>
 <P align="center"> A passionate front-end developer 👨‍💻✨</P>
 
 - 👀 I’m currently working on Javascript | Reactjs
