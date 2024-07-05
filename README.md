@@ -17,6 +17,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahdi123408&show_icons=true&theme=dark&locale=en&layout=compact" alt="Mahdi123408" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdi123408&show_icons=true&theme=dark&locale=en" alt="Mahdi123408" /></p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
