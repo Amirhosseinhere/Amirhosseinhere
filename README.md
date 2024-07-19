@@ -19,6 +19,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
+## 🔗 Connect with Me:
+  <a align="center" href="https://www.instagram.com/Amirhere0"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a align="center" href="https://t.me/Amirhere0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+   
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhosseinhere&show_icons=true&theme=dark&locale=en&layout=compact" alt="amirhosseinhere" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhosseinhere&show_icons=true&theme=dark&locale=en" alt="amirhosseinhere" /></p>
